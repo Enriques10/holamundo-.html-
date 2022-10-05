@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+     <style>
+          table, th, td{
+               border: 1px solid yellow;
+               border-collapse: collapse;
+          }
+          th, td{
+               padding; 12px
+          }
+     </style>
+     <head>
+         <meta charset="utf-8">
+          <title>Mi pagina para programación</title>
+           <script> alert("hola mundo"); </script>
+     </head>
+     <body>
+         <p>Esta es mi pagina</p>
+         <p>Juan Enrique Alvarez Lopez</p>
+          <table>
+               <tr>
+                    <th>Nombre</th>
+                    <th>Apellidos</th>
+                    <th>Sexo</th>
+                    <th>Correo Electronico</th>
+               </tr>
+               <tr>
+                    <td>Juan Enrique</td>
+                    <td>Alvarez lopez</td>
+                    <td>H</td>
+                    <td>juanenriquealvarezlopez4@gmail.com</td>
+               </tr>
+               </tr>
+               <tr>
+                    <td>Elizabeth</td>
+                    <td>Hernandez Gomez</td>
+                    <td>M</td>
+                    <td>elizabeth3005gomez@gmail.com</td>
+               </tr>
+          </tr>
+               <tr>
+                    <td>Tomas Manuel</td>
+                    <td>Campos</td>
+                    <td>H</td>
+                    <td>tomasneuquel19@gmail.com</td>
+               </tr>
+          </table>
+     </body>          
+</html>
